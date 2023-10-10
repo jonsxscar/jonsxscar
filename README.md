@@ -10,7 +10,7 @@
 <br />
 
 ## 📫 Get In Touch
-<a href="www.linkedin.com/in/jonnathan-scarpetta-burgos-4b259b261" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/jonnathan-scarpetta-burgos-4b259b261/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:jonsxscar@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a>
 &nbsp; &nbsp;
